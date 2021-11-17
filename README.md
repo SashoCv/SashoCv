@@ -1,7 +1,8 @@
 - 👋 Hi, I’m @SashoCv
 - 👀 I’m interested in coding
 - 🌱 I’m currently learn full stack developer
-- 📫 How to reach me sasocvetanoski@gmail.com
+- 📫 How to reach me:
+     email: sasocvetanoski@gmail.com
 
 <!---
 SashoCv/SashoCv is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
