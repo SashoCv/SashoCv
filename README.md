@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @SashoCv
 - 👀 I’m interested in coding
-- 🌱 I’m currently learn full stack developer
+- 🌱 I'm currently learning full stack web development
 - 📫 E-mail: sasocvetanoski@gmail.com
 
 <!---
